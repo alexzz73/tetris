@@ -20,9 +20,7 @@ Tetris is a classic arcade game where the player controls falling shapes (tetrom
 
 - Implementation of classic Tetris game mechanics
 - Control the shapes using the keyboard
-- Support for various difficulty levels
 - Score counter
-- Ability to pause and resume the game
 
 ## Requirements
 
@@ -55,8 +53,6 @@ Tetris is a classic arcade game where the player controls falling shapes (tetrom
     - Right Arrow: Move shape right
     - Up Arrow: Rotate shape
     - Down Arrow: Move shape down faster
-    - Space: Drop shape
-    - P: Pause/Resume the game
 
 ## Author
 
