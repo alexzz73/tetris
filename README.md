@@ -31,7 +31,7 @@ Tetris is a classic arcade game where the player controls falling shapes (tetrom
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/username/tetris.git
+    git clone https://github.com/alexzz73/tetris.git
     ```
 2. Navigate to the project directory:
     ```sh
